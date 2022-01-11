@@ -8,15 +8,15 @@ sell AI-driven bots in my free time.
 
 <h1>Recent Projects 💻</h1>
 <ul>
-  <li> AI - Discord Bot </li>
-  <li> Sentiment Analysis On News Articles and Stock Price Comparision</li>
-  <li> Data Analysis Case Studies</li>
+  <li> <a href=https://github.com/aaryanshsahay/discord_bot>AI - Discord Bot</a> <br><br>About:</li>
+  <li> <a href=https://github.com/aaryanshsahay/oil_stock_model>Sentiment Analysis On News Articles and Stock Price Comparision </a><br><br>About:</li>
+  <li> <a href=https://github.com/aaryanshsahay/data_analysis>Data Analysis Case Studies</a><br><br>About:</li>
 </ul>
 
 <h1>Blog Posts ✍🏼</h1>
 <ul>
   <li> <a href=https://python.plainenglish.io/roc-auc-in-machine-learning-d70d4308f636>ROC/AUC in Classification Tasks</a> </li>
-  <li> Linear Regression From Scratch</li>
+  <li> <a href=https://aaryansh-sahay.medium.com/linear-regression-from-scratch-f5b9d6280191>Linear Regression From Scratch </a> </li>
 </ul>
 
 <h1>Past Experience 🔁</h1>
