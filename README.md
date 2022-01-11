@@ -1,8 +1,8 @@
   
-<h1>About Me 🤓</h1>
+<h3>About Me 🤓</h3>
 Diligent and Passionate student currently pursuing
 a bachelor's degree in Data Science, residing in 
-Navi Mumbai, India. A machine learning enthusiast
+Navi Mumbai, India. A machine learning and deep learning enthusiast
 with background in programming. I also write and
 sell AI-driven bots. 
 <h1>Recent Projects</h1>
