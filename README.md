@@ -1,5 +1,5 @@
   
-<h1>About Me 🤓</h1>
+<h1>About Me 🤚🏼</h1>
 Diligent and Passionate student currently pursuing
 a bachelor's degree in Data Science, residing in 
 Navi Mumbai, India. A machine learning and deep learning enthusiast
