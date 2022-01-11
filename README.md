@@ -8,16 +8,15 @@ sell AI-driven bots in my free time.
 
 <h1>Recent Projects 💻</h1>
 <ul>
-  <li> Project 1</li>
-  <li> Project 2</li>
-  <li> Project 3</li>
+  <li> AI - Discord Bot </li>
+  <li> Sentiment Analysis On News Articles and Stock Price Comparision</li>
+  <li> Data Analysis Case Studies</li>
 </ul>
 
 <h1>Blog Posts ✍🏼</h1>
 <ul>
-  <li> Blog 1</li>
-  <li> Blog 2</li>
-  <li> Blog 3</li>
+  <li> ROC/AUC in Classification Tasks</li>
+  <li> Linear Regression From Scratch</li>
 </ul>
 
 <h1>Past Experience 🔁</h1>
@@ -28,4 +27,4 @@ sell AI-driven bots in my free time.
 </ul>
 
 
-<h1>Contact</h1>
+<h1>Contact 📞</h1>
