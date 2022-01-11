@@ -4,7 +4,7 @@ Diligent and Passionate student currently pursuing
 a bachelor's degree in Data Science, residing in 
 Navi Mumbai, India. A machine learning and deep learning enthusiast
 with background in programming. I also write and
-sell AI-driven bots. 
+sell AI-driven bots in my free time. 
 <h1>Recent Projects</h1>
 blah blah blah
 <h1>Blog Posts</h1>
