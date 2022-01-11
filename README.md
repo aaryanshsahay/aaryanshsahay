@@ -15,7 +15,7 @@ sell AI-driven bots in my free time.
 
 <h1>Blog Posts ✍🏼</h1>
 <ul>
-  <li> ROC/AUC in Classification Tasks</li>
+  <li> <a href=https://python.plainenglish.io/roc-auc-in-machine-learning-d70d4308f636>ROC/AUC in Classification Tasks</a> </li>
   <li> Linear Regression From Scratch</li>
 </ul>
 
