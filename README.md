@@ -3,7 +3,7 @@
 Final year student @ <a href = https://www.nmims.edu/mumbaicampus> NMIMS, Mumbai </a><br>
 More about me on my <a href = https://www.notion.so/aaryansh/Aaryansh-Sahay-fbba077d1d0848409f1b5c12df2063f3> Portfolio  </a>
 
-I write AI code, sell bots in my freetime.<br> Also ocassionally write articles! Check out the links under Find Me
+I write AI code, sell smart social media bots in my freetime.<br> Also ocassionally write articles! Check out the links under Find Me
 
 <h2>Tech Stack :</h2>
 <ul>
