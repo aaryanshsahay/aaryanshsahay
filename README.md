@@ -1,7 +1,15 @@
   
 <h1>About Me </h1>
-Final year student @ <a href = https://www.nmims.edu/mumbaicampus> NMIMS, Mumbai </a><br>
-More about me on my <a href = https://www.notion.so/aaryansh/Aaryansh-Sahay-fbba077d1d0848409f1b5c12df2063f3> Portfolio  </a>
+Master's in Artificial Intelligence at Northwestern University.<br>
+Undergraduate in Data Science from NMIMS.<br><br>
+<ul>Past Exp:<br>
+<li>Data Scientist @ Tata Communications<br></li>
+<li>MLE Freelance<br></li>
+<li>Data Science Intern @ Piramal Glass <br></li>
+</ul>
+
+Portfolio: <a href = https://www.notion.so/aaryansh/Aaryansh-Sahay-fbba077d1d0848409f1b5c12df2063f3> here </a><br>
+Linkedin: <a href = https://www.linkedin.com/in/aaryansh-sahay-6b8a2219a/> here </a>
 
 I write AI code, sell smart social media bots in my freetime.<br> Also ocassionally write articles! Check out the links under Find Me
 
@@ -18,4 +26,5 @@ I write AI code, sell smart social media bots in my freetime.<br> Also ocassiona
 <ul>
   <li><a href = https://medium.com/@aaryansh-sahay>Medium</a></li>
   <li><a href = https://dev.to/aaryanshsahay>Dev</a></li
+                                                      
 </ul>
